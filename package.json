@@ -1,0 +1,19 @@
+{
+  "name": "crawler-test",
+  "version": "1.0.0",
+  "description": "A crawler test for crypto sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jde-maga/crawler-test.git"
+  },
+  "author": "jde-maga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jde-maga/crawler-test/issues"
+  },
+  "homepage": "https://github.com/jde-maga/crawler-test#readme"
+}
