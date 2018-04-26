@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jde-maga/crawler-test/issues"
   },
-  "homepage": "https://github.com/jde-maga/crawler-test#readme"
+  "homepage": "https://github.com/jde-maga/crawler-test#readme",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.5.0"
+  }
 }
